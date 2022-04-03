@@ -13,6 +13,9 @@ need to be in FASTA format and
 ## Quick Start
 
 ```
+# FIXME
+% klosham -q focal.afa -d db.afa
+```
 
 ## Installation
 
